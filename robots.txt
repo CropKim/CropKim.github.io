@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cropkim.github.io/sitemap.xml
