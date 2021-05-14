@@ -18,9 +18,9 @@ minimal_mistakes_skin    :  # 테마 색 설정 "air", "aqua", "contrast", "dark
 locale                   : "ko-KR"
 title                    : "Cropkim's devlog"
 title_separator          : "&#124;"
-subtitle                 : "Ver 1.0" # site tagline that appears below site title in masthead
+subtitle                 : "실패 바로 앞의 성공" # site tagline that appears below site title in masthead
 name                     : "김준태"
-description              : "Python과 웹개발을 다루는 블로그" # Meta 태그에 들어가는 영역 
+description              : #"Python과 웹개발을 다루는 블로그" # Meta 태그에 들어가는 영역 
 url                      : "https://cropkim.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "cropkim/cropkim.github.io" #깃허브 repo주소
@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "김준태"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "실패는 성공의 지름길"
+  bio              : "웹개발과 인공지능 그리고 간단한 코딩테스트를 다루는 블로그 입니다."
   location         : "Republic of Korea"
   email            : "kjt0518@gmail.com"
   links:
