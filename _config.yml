@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "김준태"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "웹개발과 인공지능 그리고 간단한 코딩테스트를 다루는 블로그 입니다."
+  bio              : "웹개발과 인공지능 그리고 <br> 간단한 코딩테스트를 다루는 블로그 입니다."
   location         : "Republic of Korea"
   email            : "kjt0518@gmail.com"
   links:
