@@ -18,7 +18,7 @@ minimal_mistakes_skin    :  # 테마 색 설정 "air", "aqua", "contrast", "dark
 locale                   : "ko-KR"
 title                    : "Cropkim's devlog"
 title_separator          : "&#124;"
-subtitle                 : "실패 바로 앞의 성공" # site tagline that appears below site title in masthead
+subtitle                 : "실패 옆의 성공" # site tagline that appears below site title in masthead
 name                     : "김준태"
 description              : #"Python과 웹개발을 다루는 블로그" # Meta 태그에 들어가는 영역 
 url                      : "https://cropkim.github.io/"
